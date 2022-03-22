@@ -1,4 +1,4 @@
-"# Document-classification-CNN-" 
+"# Document-classification-CNN-" "\n"
 please download the data from here: https://drive.google.com/file/d/1rxD15nyeIPIAZ-J2VYPrDRZI66-TBWvM/view
 reference links: 
 https://arxiv.org/abs/1509.01626
